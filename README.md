@@ -1,9 +1,6 @@
-````markdown
 # Problema de la Mochila Cuadrática – Optimización Metaheurística
 
 Implementación y comparación experimental de diferentes técnicas de optimización metaheurística aplicadas al **Problema de la Mochila Cuadrática (Quadratic Knapsack Problem, QKP)**.
-
-El proyecto fue desarrollado como parte de la asignatura de **Computación Inteligente** en la Universidad de Granada y se centra en el análisis del comportamiento de diferentes estrategias de optimización en términos de calidad de las soluciones y coste computacional.
 
 ## Problema
 
