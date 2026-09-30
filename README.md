@@ -107,17 +107,4 @@ Contiene las implementaciones del resto de metaheurísticas:
 
 ## Contexto
 
-Proyecto académico desarrollado en la **Universidad de Granada (UGR)** como parte de la asignatura de Computación Inteligente.
-
-El proyecto se centra en el diseño, implementación y evaluación experimental de diferentes algoritmos metaheurísticos aplicados a un problema de optimización combinatoria.
-
-````
-
-Yo usaría **exactamente esos nombres** para los archivos:
-
-```text
-genetic_memetic_algorithms.cpp
-metaheuristic_algorithms.cpp
-````
-
-Así, tanto el nombre de los archivos como el README dejan bastante claro qué hay dentro del repositorio sin necesidad de entrar a leer el código.
+Proyecto académico desarrollado en la **Universidad de Granada (UGR)** 
