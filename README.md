@@ -80,12 +80,11 @@ Los resultados permiten analizar el equilibrio existente entre obtener solucione
 
 ## Estructura del proyecto
 
-```text
 .
-├── genetic_memetic_algorithms.cpp
-├── metaheuristic_algorithms.cpp
+├── AlgoritmosGeneticosMemeticos.cpp
+├── Metaheuristicas.cpp
 └── README.md
-````
+
 
 ### `AlgoritmosGeneticosMemeticos.cpp`
 
